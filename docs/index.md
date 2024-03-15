@@ -39,3 +39,5 @@ Ze speelen een beperkte rol in dit sinds ze maar beperkte beveileging hebben bv.
 | Protocol       | FTP-protocol                 | SSH-protocol                        |
 | Bestandsoverdrachten | Hervat niet onderbroken overdrachten | Ondersteunt hervatten en parallelle overdrachten |
 [Lees meer](https://kinsta.com/nl/kennisbank/wat-is-ftp/)
+
+Kinsta. (2023, 16 juni). Wat is FTP? En hoe kan ik het gebruiken voor bestandsoverdracht? - Kinsta®. Kinsta®. https://kinsta.com/nl/kennisbank/wat-is-ftp/
